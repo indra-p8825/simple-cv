@@ -47,7 +47,7 @@ I am a passionate **Frontend Developer** with experience in building interactive
 📧 Email: [indraprasad8825@gmail.com](mailto:indraprasad8825@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/indra-prasad-pds](https://linkedin.com/in/indra-prasad-pds)  
 💻 GitHub: [github.com/indra-p8825](https://github.com/indra-p8825)  
-
+💻 About me: https://indra-p8825.github.io/simple-cv/
 ---
 
 ⭐ **Feel free to check out my repositories and contribute!**  
