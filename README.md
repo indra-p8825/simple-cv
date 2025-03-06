@@ -48,6 +48,7 @@ I am a passionate **Frontend Developer** with experience in building interactive
 🔗 LinkedIn: [linkedin.com/in/indra-prasad-pds](https://linkedin.com/in/indra-prasad-pds)  
 💻 GitHub: [github.com/indra-p8825](https://github.com/indra-p8825)  
 💻 About me: https://indra-p8825.github.io/simple-cv/
+Project link:https://roadmap.sh/projects/single-page-cv
 ---
 
 ⭐ **Feel free to check out my repositories and contribute!**  
